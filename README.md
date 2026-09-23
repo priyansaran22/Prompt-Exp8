@@ -1,6 +1,6 @@
 # Exno.8-Reproducing an Image Using Prompts for Image Generation
 
-# Date: 07-09-2026
+# Date: 03-09-2026
 # Reg. No.: 212225060282
 
 # Aim:
